@@ -1,0 +1,1 @@
+pub const ANCHOR_DISCRIMINATION_SIZE: usize = 8;
